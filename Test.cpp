@@ -1,4 +1,3 @@
-#include <algorithm>
 #include "Board.hpp"
 #include "OperationsExpert.hpp"
 #include "Dispatcher.hpp"
